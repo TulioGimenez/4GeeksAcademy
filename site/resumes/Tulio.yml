@@ -1,0 +1,84 @@
+
+template: "online-cv"
+skin: "blue"
+
+basic_info:
+
+    first_name: Tulio 
+    last_name: Gimenez
+    motto: No te rindas, sigue adelante.
+    avatar: https://media-exp1.licdn.com/dms/image/C4D03AQHmXjA319ce_w/profile-displayphoto-shrink_400_400/0?e=1609977600&v=beta&t=xOF0Yy51RfYjl2G09dz_bI6jl1FSDs_5ySxiXUc_Q8I
+    
+    email: tuliogimenezf@gmail.com
+    phone: +34662237140
+    website: 
+    linkedin: https://www.linkedin.com/in/tulio-gimenez-0a4089103/
+    github: Tulio
+    twitter: 
+    
+    languages:
+
+      - idiom: Spanish 
+        level: Native
+        
+      
+    interests:
+
+      - item: Viajes
+
+      - item: Comida
+
+      - item: Deportes
+
+education:
+    - degree: Analista de Sistemas
+      university: Universidad Centro Occidental 'Lisandro Alvarado'
+      time: 2012 - 2017
+      details: 
+
+    - degree: Instituto Universitario de Tecnología Industrial "Rodolfo Loero Arismendi" (IUTIRLA)
+      university: San Pablo CEU University
+      time: 2014 - 2017
+      details: 
+
+    
+
+      
+experiences:
+    - role: Asistente administrativo (Producción)
+      time: 2024 - Actualidad
+      company: Laboratorios Liconsa, S.A.
+      details: 
+
+    - role: Especialista en Logística de almacén
+      time: 2022 - 2023
+      company: TBA - Trade Bridge Atlantic
+      details:  
+
+    - role: Analista administrativo
+      time: 2017 - 2021
+      company: Organización El Tunal
+      details:  
+
+
+
+
+skills:
+    toolset:
+    - name: Python & Django
+      level: none
+
+    - name: Javascript & jQuery
+      level: none
+
+    - name: Angular
+      level: none
+
+    - name: HTML5 & CSS
+      level: none
+
+    - name: Ruby on Rails
+      level: none
+
+    - name: Sketch & Photoshop
+      level: none
